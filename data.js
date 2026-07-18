@@ -10,8 +10,8 @@
 
 window.DASHBOARD_DATA = {
   profile: {
-    name: "阿劍",
-    lang: "JavaScript",
+    name: "洧郕",
+    lang: "Python",
   },
   sections: [
     {
